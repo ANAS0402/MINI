@@ -1,8 +1,6 @@
-ccxt
-pandas
-numpy
-pandas-ta
+numpy<2.0
+pandas==2.2.2
+pandas_ta==0.3.14b0
+python-telegram-bot==20.8
 requests
-flask
-gunicorn
-python-dotenv
+ccxt
